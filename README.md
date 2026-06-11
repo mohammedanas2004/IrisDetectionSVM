@@ -316,6 +316,4 @@ This repository is intended for educational and portfolio purposes. It shows a c
 
 **Anas Mohammed**
 
-## License
 
-This project can be used for learning and educational purposes. Add a license file such as `MIT License` if you want to make the repository publicly reusable.
