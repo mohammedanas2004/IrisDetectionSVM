@@ -314,7 +314,7 @@ This repository is intended for educational and portfolio purposes. It shows a c
 
 ## Author
 
-**Adil Mohammed**
+**Anas Mohammed**
 
 ## License
 
